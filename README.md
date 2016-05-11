@@ -72,3 +72,6 @@ k.respond("load aiml b")
 # line and printing responses.
 while True: print k.respond(raw_input("> "))
 ```
+
+注意：
+    中文会自动切分，英文默认以空格分割

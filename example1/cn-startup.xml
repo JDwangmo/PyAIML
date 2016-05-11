@@ -6,7 +6,8 @@
 
 <!-- Load chinese AIML set -->
 <!-- <learn>cn-profile.aiml</learn> -->
-<learn>cn-test.aiml</learn>
+<!--<learn>/home/jdwang/PycharmProjects/PyAIML/Ch2R_aiml/*.aiml</learn>-->
+<learn>/home/jdwang/PycharmProjects/PyAIML/example1/test.aiml</learn>
 
 
 </template>

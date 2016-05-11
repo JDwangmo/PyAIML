@@ -27,6 +27,7 @@ def splitChinese(s):
         else:
             result.append(c)
     ret = ''.join(result)
+    print ret
     return ret.split()
 
 
